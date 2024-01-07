@@ -1,3 +1,3 @@
-#proyect-3-php
+# proyect-3-php
 
-###Un pequeño programa que hice hace un tiempo el cual te saluda dependiendo de la hora en la que estés.
+### Un pequeño programa que hice hace un tiempo el cual te saluda dependiendo de la hora en la que estés.

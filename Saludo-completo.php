@@ -76,7 +76,6 @@
             } elseif ($hora_int == 0) {
                 echo "<hr>Buenos noches, " . $nombre . ". Actualmente son las " . $hora_str_12[0] . ":" . $hora_str_12[1] . " a.m. de la noche.";
             } else {
-                echo $hora_int;
                 echo "<hr><b>Error: Algo salió mal.<b>";
             }
         } else {
